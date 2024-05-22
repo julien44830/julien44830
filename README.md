@@ -48,7 +48,7 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-s
+</td></tr></table> 
 
 
 
