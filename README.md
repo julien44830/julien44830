@@ -23,16 +23,33 @@
 <p align="left">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=julien44830&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<table align="center">
+  
+  <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats GitHub"/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=julien44830&theme=dark&hide_border=false" alt="Streak GitHub"/><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langues les plus utilisées"/>
+  </td>
+    
+
+  
+  
+  <td align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=julien44830&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>   
+    
+  </td>
+    
+  
+</table>
+
+
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeniaudJulien) 
