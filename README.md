@@ -2,7 +2,7 @@
 <h3 align="center">C'est prétentieux et ambitieux mais je suis Full-Stack</h3>
 
 ## 🏆 GitHub Trophies
-<div aliogn="center">
+<div align="center">
  ![](https://github-profile-trophy.vercel.app/?username=julien44830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
