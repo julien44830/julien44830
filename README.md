@@ -5,6 +5,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=julien44830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💻 Tech Stack:
+<div align="center">
+ 
+
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -24,6 +27,7 @@
  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+</div>
 
 - 🔭 Je travaille actuellement sur mon [Portfolio](https://github.com/julien44830/Portfolio)
 
