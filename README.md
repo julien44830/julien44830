@@ -33,6 +33,9 @@
 
 </div>
 
+
+- J'ai le plaisir de vous annoncer que je viens de commencer un gros projet collaboratif [Baby place](https://github.com/WildCodeSchool-2024-02/JS-Nantes-RamCSS-P3-BabyPlace.git)
+  
 - 🔭 Je travaille actuellement sur mon [Portfolio](https://github.com/julien44830/Portfolio)
 
 - Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
