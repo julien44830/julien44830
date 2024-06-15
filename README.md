@@ -35,6 +35,8 @@
 
 
 - 👶🏻 J'ai le plaisir de vous annoncer que je viens de commencer un gros projet collaboratif [Baby place](https://github.com/WildCodeSchool-2024-02/JS-Nantes-RamCSS-P3-BabyPlace.git)
+
+- 📻 Nouveau projet collaboratif en production pour vous permettre d'écouter de la musique en ligne !!! [Stream Wave](https://github.com/julien44830/stream_wave.git)
   
 - 🔭 Je travaille actuellement sur mon [Portfolio](https://github.com/julien44830/Portfolio)
 
