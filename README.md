@@ -42,8 +42,6 @@
 
 - 🌍 Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://github.com/julien44830/ ](https://github.com/julien44830/)
-
 - 🌱 J'apprends actuellement **React, Vite, Express, Node, Git**
 
 - 📫 Comment me joindre **deniaudjulien0@gmail.com**
