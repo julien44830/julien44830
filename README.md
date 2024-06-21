@@ -42,7 +42,7 @@
 
 - 🌍 Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
 
-- 🌱 J'apprends actuellement **React, Vite, Express, Node, Git**
+- 🌱 J'apprends actuellement **React, Vite, Typescript Express, Node, Git**
 
 - 📫 Comment me joindre **deniaudjulien0@gmail.com**
 
