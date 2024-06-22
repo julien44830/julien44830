@@ -39,7 +39,7 @@
 
 - 📻 Nouveau projet collaboratif en production pour vous permettre d'écouter de la musique en ligne !!! [Stream Wave](https://github.com/julien44830/stream_wave.git)
   
-- 🔭 Je travaille actuellement sur mon [Portfolio](https://github.com/julien44830/Portfolio)
+- 🔭 Je travaille actuellement sur mon [Portfolio](https://portfolio-mocha-alpha-31.vercel.app/)
 
 - 🌍 Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
 
