@@ -34,7 +34,7 @@
 
 </div>
 
-- 🥇 Vainqueur du Hackathon 2024 de la WILD CODE SCHOOL France sur le thème de l'accessibilité et de l'inclusivité, le site sera bientôt disponible...
+- 🥇 Vainqueur du Hackathon 2024 de la WILD CODE SCHOOL France sur le thème de l'accessibilité et de l'inclusivité, visitez le notre site [EquityWeb](https://equity-web.vercel.app/).
 
 - 👶🏻 J'ai le plaisir de vous annoncer que je viens de commencer un gros projet collaboratif [Baby place](https://github.com/WildCodeSchool-2024-02/JS-Nantes-RamCSS-P3-BabyPlace.git)
 
