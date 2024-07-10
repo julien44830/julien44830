@@ -1,6 +1,6 @@
 <h1 align="center">👋 Salut, Je suis Julien 👋</h1>
 <h3 align="center">C'est prétentieux et ambitieux mais je suis Full-Stack</h3>
-<h3 align="center">**Et toujours de très bonne humeur**</h3>
+<h3 align="center">Et toujours de très bonne humeur</h3>
 
 ## 🏆 GitHub Trophies
 <div align="center">
