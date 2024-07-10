@@ -1,5 +1,6 @@
 <h1 align="center">👋 Salut, Je suis Julien 👋</h1>
 <h3 align="center">C'est prétentieux et ambitieux mais je suis Full-Stack</h3>
+<h3 align="center">**Et toujours de très bonne humeur**</h3>
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -48,7 +49,6 @@
 
 - 📫 Comment me joindre **deniaudjulien0@gmail.com**
 
-- ⚡ Fun fact **Je suis toujours de très bonne humeur**
 
 <h3 align="left" >Connectez-vous avec moi :</h3>
 <p align="left">
