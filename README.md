@@ -45,7 +45,7 @@
 
 - 🌍 Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
 
-- 🌱 Je travail actuellement sur les techno **React, Vite, Typescript, TypeORM, GraphQL, ApolloServer, CodeGen, Express, Node, Git, Docker**
+- 🌱 Je travail actuellement sur les techno **React, Vite, Typescript, TypeORM, GraphQL, ApolloServer, CodeGen, Express, Node, Git, Docker, NGINX**
 
 - 📫 Comment me joindre **deniaudjulien0@gmail.com**
 
