@@ -2,12 +2,7 @@
 <h3 align="center">C'est prétentieux et ambitieux mais je suis Full-Stack</h3>
 <h3 align="center">Et toujours de très bonne humeur</h3>
 
-## 🏆 GitHub Trophies
-<div align="center">
- 
- ![](https://github-profile-trophy.vercel.app/?username=julien44830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</div>
 
 # 💻 Tech Stack:
 <div align="center">
@@ -39,19 +34,48 @@
 
 </div>
 
+---
+
+🚀 Projet personnel en cours : [Pictevent](https://www.pictevent.fr)
+
+- 🔐 Authentification par classique et Google (OAuth2)
+- 📁 Gestion de books (albums photos)
+- 🖼️ Upload, visualisation plein écran, suppression d’images...
+- 📩 Invitations par email avec tokens
+- 📤 Hébergement : Vercel (frontend) & Railway (API + base de données)
+
+🛠️ Stack technique
+
+- **Frontend** : React · Vite · TypeScript · React Router · Testing Library
+- **Backend** : Node.js · Express · MySQL (mysql2) · Multer · Resend
+- **Auth** : JWT · OAuth Google 
+- **DevOps** : · Railway · Vercel 
+- **Test** : Jest · React Testing Library
+
+---
+### Projets :
+
 - 🥇 Vainqueur du Hackathon 2024 de la WILD CODE SCHOOL France sur le thème de l'accessibilité et de l'inclusivité, visitez le notre site [EquityWeb](https://equity-web.vercel.app/).
+
+- 🌍 [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/) : site sur les napes fréatique en France.
+
+- 🧑‍🚀 [Test Angulare](https://rickandmorty-qkkjd1lbe-julien44830s-projects.vercel.app/) : test de la techno angulare sur un projet front avec appel API.
   
-- 🔭 Je travaille actuellement sur mon [Portfolio](https://deniaud-julien.vercel.app/)
+- 🧑‍🚀 [Todo Liste](https://github.com/julien44830/todo) : Simple Todo Liste, projet FullStack.
 
-- 🌍 Je viens de terminer [H2OVERFLOW](https://h2overflow-git-main-julien44830s-projects.vercel.app/)
-
-- 🌱 Je travail actuellement sur les techno **React, Vite, Typescript, TypeORM, GraphQL, ApolloServer, CodeGen, Express, Node, Git, Docker, NGINX**
-
-- 📫 Comment me joindre **deniaudjulien0@gmail.com**
-
+- 🔭  D'autre projet sur mon [Portfolio](https://deniaud-julien.vercel.app/).
+---
 
 <h3 align="left" >Connectez-vous avec moi :</h3>
-<p align="left">
+deniaudjulien0@gmail.com
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+ 
+ ![](https://github-profile-trophy.vercel.app/?username=julien44830&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
 
 # 📊 GitHub Stats:
 
@@ -62,13 +86,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langues les plus utilisées"/>
   </td>
 
-  <td align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=julien44830&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-    
-  </td>
     
   
 </table>
