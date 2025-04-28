@@ -38,18 +38,18 @@
 
 🚀 Projet personnel en cours : [Pictevent](https://www.pictevent.fr)
 
-- 🔐 Authentification par classique et Google (OAuth2)
+- 🔐 Authentification classique et Google (OAuth2)
 - 📁 Gestion de books (albums photos)
 - 🖼️ Upload, visualisation plein écran, suppression d’images...
 - 📩 Invitations par email avec tokens
-- 📤 Hébergement : Vercel (frontend) & Railway (API + base de données)
+- 📤 Hébergement : Vercel (frontend) & Railway (API + base de données) -> Passage en micro service
 
 🛠️ Stack technique
 
 - **Frontend** : React · Vite · TypeScript · React Router · Testing Library
 - **Backend** : Node.js · Express · MySQL (mysql2) · Multer · Resend
 - **Auth** : JWT · OAuth Google 
-- **DevOps** : · Railway · Vercel 
+- **DevOps** : · ~~Railway~~ · ~~Vercel~~ 
 - **Test** : Jest · React Testing Library
 
 ---
