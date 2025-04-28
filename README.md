@@ -42,7 +42,8 @@
 - 📁 Gestion de books (albums photos)
 - 🖼️ Upload, visualisation plein écran, suppression d’images...
 - 📩 Invitations par email avec tokens
-- 📤 Hébergement : Vercel (frontend) & Railway (API + base de données) -> Passage en micro service
+- 📤 Hébergement : ~~Vercel (frontend) & Railway (API + base de données)~~
+- -> Passage en micro service
 
 🛠️ Stack technique
 
