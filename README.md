@@ -36,7 +36,7 @@
 
 ---
 
-🚀 Projet personnel en cours : [Pictevent](https://www.pictevent.fr)
+🚀 Projet personnel en cours : [Pictevent]()
 
 - 🔐 Authentification classique et Google (OAuth2)
 - 📁 Gestion de books (albums photos)
