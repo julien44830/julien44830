@@ -86,19 +86,27 @@ deniaudjulien0@gmail.com
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=julien44830&theme=dark&hide_border=false" alt="Streak GitHub"/><br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julien44830&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langues les plus utilisées"/>
   </td>
-
-
-    
-  
 </table>
 
 
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DeniaudJulien) 
-<a href="[https://www.linkedin.com/in/julien-deniaud-917610238/](https://www.linkedin.com/in/julien-deniaud-917610238/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/julien-deniaud-917610238/" height="30" width="40" /></a>
-</p>
+
+<div>
+ <a href="https://x.com/DeniaudJulien" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" height="30" />
+</a>
+
+<a href="https://www.linkedin.com/in/julien-deniaud-917610238/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+</div>
+
+
+
+
+
 
 
 ---
